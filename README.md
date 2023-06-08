@@ -15,9 +15,9 @@ Steps:
 
 ## ⇁ Usage
 Access these urls from your browser or using a cli tool like httpie(http) or curl
-http://localhost:8081/personal
-http://localhost:8081/experience
-http://localhost:8081/education
+* http://localhost:8081/personal
+* http://localhost:8081/experience
+* http://localhost:8081/education
 
 As for the cli commans, there are two:
 get-chapter is suppose to give you each chapter one by one 
