@@ -6,8 +6,8 @@ Armand Croitoru Resume App
 ## ⇁ Installation
 Steps:
 ```bash
-# git clone this project
-# cd into the project directory
+# git clone git@github.com:baloops/flask_resume.git
+# cd flask_resume   
 # docker build -t flask_resume_app .
 # docker run -p 8081:8081 -v ./:/code/ --name armand_resume flask_resume_app
 ```
