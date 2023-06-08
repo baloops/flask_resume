@@ -57,3 +57,34 @@ or like this:
 ```
 in case there are errors.
 
+help messages: 
+```
+$ docker exec -it armand_resume flask get-chapter --help
+Usage: flask get-chapter [OPTIONS] CHAPTER
+
+  Get a chapter of the resume.
+
+  Example: flask get-chapter experience
+
+  CHAPTER is the part of the resume that you want returned: personal,
+  education, experience, all.
+
+Options:
+  --help  Show this message and exit.
+```
+
+```
+docker exec -it armand_resume flask compose-resume --help
+Usage: flask compose-resume [OPTIONS]
+
+  Add the chapters by setting the flags that interest you.
+
+  Example: flask compose-resume --education --personal
+
+Options:
+  --personal    Set flag to get the personal chapter
+  --experience  Set flag to get the experience chapter
+  --education   Set flag to get the education chapter
+  --help        Show this message and exit.
+ ```
+
