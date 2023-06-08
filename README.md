@@ -1,6 +1,5 @@
-<div align="center">
-Armand Croitoru Resume App
-</div>
+
+# Armand Croitoru Resume App
 
 
 ## ⇁ Installation
