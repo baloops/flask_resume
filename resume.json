@@ -1,0 +1,29 @@
+{
+  "personal": {
+    "name": "Armand Croitoru",
+    "phone": "+40 749 364 644",
+    "interests": "I am passionate about web development and embedded systems."
+  },
+  "experience": [
+    {
+      "company_name": "Vuuh",
+      "title": "Web Developer",
+      "period": "July 2021 - present",
+      "description": "Being part of a small start-up team I helped build our own project regarding data manipulation in the fashion industry. I also transitioned from Python towards full stack to better fit the team needs.",
+      "location": "Iasi"
+    },
+    {
+      "company_name": "OVES Enterprise",
+      "title": "Python Developer",
+      "period": "February 2021 - July 2021",
+      "description": "Working alone to implement the requirements discussed with the customer. I helped him transition from one ERP to another",
+      "location": "Iasi"
+    }
+  ],
+  "education": {
+    "institute_name": "Vasile Alecsandri University",
+    "license": "Informatics",
+    "city": "Bacau",
+    "time_frame": "2017-2021"
+  }
+}
